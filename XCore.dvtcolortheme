@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>DVTConsoleDebuggerInputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.25 0.25 0.25 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
 	<string>SFMono-Bold - 12.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.25 0.25 0.25 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
 	<string>SFMono-Bold - 12.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
-	<string>0.317071 0.437736 1 1</string>
+	<string>0 0 0.873108 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
 	<string>SFMono-Bold - 12.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.25 0.25 0.25 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
 	<string>SFMono-Bold - 12.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>0 0 0 1</string>
+	<string>0.25 0.25 0.25 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>SFMono-Bold - 12.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
@@ -27,9 +27,9 @@
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.642038 0.802669 0.999195 1</string>
+	<string>0.9 0.9 0.9 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
-	<string>0.705792 0.8 0.544 1</string>
+	<string>0.0833536 0.672526 0.998619 1</string>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.96 0.96 0.96 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -45,23 +45,23 @@
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.055 0.055 1 1</string>
 	<key>DVTMarkupTextLinkFont</key>
-	<string>.SFNSText-Regular - 10.0</string>
+	<string>.SFNSText - 10.0</string>
 	<key>DVTMarkupTextNormalColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTMarkupTextNormalFont</key>
-	<string>.SFNSText-Regular - 10.0</string>
+	<string>.SFNSText - 10.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>0 0 0 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.SFNSText-Regular - 14.0</string>
+	<string>.SFNSText - 14.0</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.SFNSDisplay-Regular - 24.0</string>
+	<string>.SFNSDisplay - 24.0</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.SFNSText-Regular - 18.0</string>
+	<string>.SFNSText - 18.0</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTMarkupTextStrongFont</key>
@@ -71,61 +71,61 @@
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0.910509 0.950667 0.999799 1</string>
+	<string>0.8 0.8 0.8 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.642038 0.802669 0.999195 1</string>
+	<string>0.897699 0.897699 0.897699 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>0.649071 0.296273 0 1</string>
+		<string>0.8 0.4 1 1</string>
 		<key>xcode.syntax.character</key>
-		<string>0.000391301 0.0295338 0.966766 1</string>
+		<string>0 0 0.962132 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0 0.932665 0.00193245 1</string>
+		<string>0.101034 0.767005 0.016557 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0 0.932665 0.00193245 1</string>
+		<string>0.101034 0.767005 0.016557 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0 0.932665 0.00193245 1</string>
+		<string>0.951548 0 0.835809 1</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0.000391301 0.0295338 0.966766 1</string>
+		<string>0 0 0.962132 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.000391301 0.0295338 0.966766 1</string>
+		<string>0 0 0.962132 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.649071 0.296273 0 1</string>
+		<string>0.0833536 0.672526 0.998619 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.181 0.052 0.431 1</string>
+		<string>0.651315 0 0.998635 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.000391301 0.0295338 0.966766 1</string>
+		<string>0 0 0.962132 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.000391301 0.0295338 0.966766 1</string>
+		<string>0 0 0.962132 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>0.649071 0.296273 0 1</string>
+		<string>0.0833536 0.672526 0.998619 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.649071 0.296273 0 1</string>
+		<string>0.0833536 0.672526 0.998619 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.902528 0.137278 0.296068 1</string>
+		<string>0.985946 0 0.0412477 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.902528 0.137278 0.296068 1</string>
+		<string>0.985946 0 0.0412477 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0.902528 0.137278 0.296068 1</string>
+		<string>0.985946 0 0.0412477 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.902528 0.137278 0.296068 1</string>
+		<string>0.985946 0 0.0412477 1</string>
 		<key>xcode.syntax.keyword</key>
-		<string>0.749363 0.0508976 0.640141 1</string>
+		<string>0.951548 0 0.835809 1</string>
 		<key>xcode.syntax.number</key>
-		<string>0.000391301 0.0295338 0.966766 1</string>
+		<string>0 0 0.962132 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0 0 0 1</string>
+		<string>0.25 0.25 0.25 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.649071 0.296273 0 1</string>
+		<string>0.0833536 0.672526 0.998619 1</string>
 		<key>xcode.syntax.string</key>
-		<string>0.000391301 0.0295338 0.966766 1</string>
+		<string>0 0 0.962132 1</string>
 		<key>xcode.syntax.url</key>
-		<string>0.000391301 0.0295338 0.966766 1</string>
+		<string>0 0 0.962132 1</string>
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
