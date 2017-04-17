@@ -27,8 +27,8 @@
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.948729 0.948701 0.948717 1</string>
-    <key>DVTDebuggerInstructionPointerColor</key>
+	<string>0.9 0.9 0.9 1</string>
+	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.0833536 0.672526 0.998619 1</string>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.96 0.96 0.96 1</string>
@@ -71,13 +71,13 @@
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-    <string>0.9 0.9 0.9 1</string>
+	<string>0.85 0.85 0.85 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0 0 0 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.948729 0.948701 0.948717 1</string>
+	<string>0.9 0.9 0.9 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
@@ -130,51 +130,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.character</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.number</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.string</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.url</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 14.0</string>
 	</dict>
 </dict>
 </plist>
