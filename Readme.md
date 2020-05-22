@@ -2,6 +2,6 @@
 
 - It includes both light and dark variants.
 
-- Dark: [Xcore Dark](Images/Dark.png)
+![Xcore Dark](./Images/Light.png))
 
-- Light: [Xcore Light](Images/Light.png)
+![Xcore Light](./Images/Light.png))
