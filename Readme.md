@@ -2,6 +2,6 @@
 
 - It includes both light and dark variants.
 
-![Xcore Dark](/Images/Light.png))
+![Xcore Dark](https://github.com/MarcusJohnson91/XCoreTheme/blob/master/Images/Xcore-Dark.png))
 
-![Xcore Light](/Images/Light.png))
+![Xcore Light](https://github.com/MarcusJohnson91/XCoreTheme/blob/master/Images/Xcore-Dark.png))
