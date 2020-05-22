@@ -4,4 +4,4 @@
 
 ![Xcore Dark](https://github.com/MarcusJohnson91/XCoreTheme/blob/master/Images/Xcore-Dark.png))
 
-![Xcore Light](https://github.com/MarcusJohnson91/XCoreTheme/blob/master/Images/Xcore-Dark.png))
+![Xcore Light](https://github.com/MarcusJohnson91/XCoreTheme/blob/master/Images/Xcore-Light.png))
