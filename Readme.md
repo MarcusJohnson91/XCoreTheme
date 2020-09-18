@@ -1,7 +1,11 @@
 # Xcore is a theme for Xcode
 
-- It includes both light and dark variants.
+The Dark and Light versions are designed to work together, so no matter what time of day it is; you'll always see the same familiar interface smiling back at you as you code.
 
-![Xcore Dark](https://github.com/MarcusJohnson91/XCoreTheme/blob/master/Images/Xcore-Dark.png)
+![Dark - Source Editor](Images/Dark-SourceEditor.png)
 
-![Xcore Light](https://github.com/MarcusJohnson91/XCoreTheme/blob/master/Images/Xcore-Light.png)
+![Dark - Console](Images/Dark-Console.png)
+
+![Light - Source Editor](Images/Lite-SourceEditor.png)
+
+![Light - Console](Images/Lite-Console.png)
